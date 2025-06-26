@@ -1,0 +1,17 @@
+.user-bubble {
+    background-color: #03c00a;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px 0;
+    width: fit-content;
+    max-width: 80%;
+}
+
+.bot-bubble {
+    background-color: #de46a4;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px 0;
+    width: fit-content;
+    max-width: 80%;
+}
